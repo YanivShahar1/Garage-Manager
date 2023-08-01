@@ -1,0 +1,9 @@
+C:\Users\Yaniv\Desktop\semB\C#\homework\ex3\B23 Ex03 YanivShahar 208837393 GalTzfati 206510067\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.exe
+C:\Users\Yaniv\Desktop\semB\C#\homework\ex3\B23 Ex03 YanivShahar 208837393 GalTzfati 206510067\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.pdb
+C:\Users\Yaniv\Desktop\semB\C#\homework\ex3\B23 Ex03 YanivShahar 208837393 GalTzfati 206510067\Ex03.ConsoleUI\bin\Debug\GarageLogic.dll
+C:\Users\Yaniv\Desktop\semB\C#\homework\ex3\B23 Ex03 YanivShahar 208837393 GalTzfati 206510067\Ex03.ConsoleUI\bin\Debug\GarageLogic.pdb
+C:\Users\Yaniv\Desktop\semB\C#\homework\ex3\B23 Ex03 YanivShahar 208837393 GalTzfati 206510067\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\Yaniv\Desktop\semB\C#\homework\ex3\B23 Ex03 YanivShahar 208837393 GalTzfati 206510067\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Yaniv\Desktop\semB\C#\homework\ex3\B23 Ex03 YanivShahar 208837393 GalTzfati 206510067\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.CopyComplete
+C:\Users\Yaniv\Desktop\semB\C#\homework\ex3\B23 Ex03 YanivShahar 208837393 GalTzfati 206510067\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.exe
+C:\Users\Yaniv\Desktop\semB\C#\homework\ex3\B23 Ex03 YanivShahar 208837393 GalTzfati 206510067\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.pdb
