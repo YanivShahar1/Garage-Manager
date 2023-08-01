@@ -1,7 +1,7 @@
-# Garage-Management-System
+## Garage Management System
 
 ### Overview
-This console-based application simulates a garage management system. It showcases the use of object-oriented principles and various design patterns.
+This console-based application simulates a garage management system. It showcases the use of object-oriented principles and the Factory design pattern.
 
 ### Features
 
@@ -38,4 +38,3 @@ Additional features could be added such as the ability to schedule maintenance a
 ### Conclusion
 
 This project demonstrates a solid understanding of object-oriented design and programming. It shows the ability to design a system with a clear structure and to write clean, maintainable code. It also shows the ability to think critically about design decisions and to choose the best design based on the specific requirements of a project.
-
