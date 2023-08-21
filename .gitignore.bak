@@ -24,4 +24,5 @@ bld/
 *.idea
 
 # SQLite databases
+
 *.sqlite
