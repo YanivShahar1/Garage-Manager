@@ -35,6 +35,7 @@
     <StartupObject />
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Car.cs" />
     <Compile Include="CarDetails.cs" />
     <Compile Include="ClientDetails.cs" />
     <Compile Include="Details.cs" />
