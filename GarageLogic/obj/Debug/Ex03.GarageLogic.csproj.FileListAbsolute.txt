@@ -4,3 +4,9 @@ C:\Users\Yaniv\Desktop\semB\C#\homework\ex3\B23 Ex03 YanivShahar 208837393 GalTz
 C:\Users\Yaniv\Desktop\semB\C#\homework\ex3\B23 Ex03 YanivShahar 208837393 GalTzfati 206510067\GarageLogic\obj\Debug\Ex03.GarageLogic.csproj.CoreCompileInputs.cache
 C:\Users\Yaniv\Desktop\semB\C#\homework\ex3\B23 Ex03 YanivShahar 208837393 GalTzfati 206510067\GarageLogic\obj\Debug\GarageLogic.dll
 C:\Users\Yaniv\Desktop\semB\C#\homework\ex3\B23 Ex03 YanivShahar 208837393 GalTzfati 206510067\GarageLogic\obj\Debug\GarageLogic.pdb
+C:\Users\Yaniv\Source\Repos\YanivShahar1\Garage-Management-System\GarageLogic\bin\Debug\GarageLogic.dll
+C:\Users\Yaniv\Source\Repos\YanivShahar1\Garage-Management-System\GarageLogic\bin\Debug\GarageLogic.pdb
+C:\Users\Yaniv\Source\Repos\YanivShahar1\Garage-Management-System\GarageLogic\obj\Debug\Ex03.GarageLogic.csproj.AssemblyReference.cache
+C:\Users\Yaniv\Source\Repos\YanivShahar1\Garage-Management-System\GarageLogic\obj\Debug\Ex03.GarageLogic.csproj.CoreCompileInputs.cache
+C:\Users\Yaniv\Source\Repos\YanivShahar1\Garage-Management-System\GarageLogic\obj\Debug\GarageLogic.dll
+C:\Users\Yaniv\Source\Repos\YanivShahar1\Garage-Management-System\GarageLogic\obj\Debug\GarageLogic.pdb
